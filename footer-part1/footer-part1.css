@@ -1,0 +1,75 @@
+.footer-part1 {
+  height: 300px;
+  border-bottom: 1px rgb(213, 217, 217) solid;
+}
+
+.footer-part1 img {
+  width: 116px;
+  height: 116px;
+  display: inline-block;
+}
+
+.buy-it-with-up. {
+  display: block;
+}
+
+.buy-it-with-up ul {
+  display: flex;
+  justify-content: space-evenly;
+  width: 600px;
+  position: absolute;
+  top: 880px;
+}
+
+.Add2-button {
+  background: #f7ca00;
+  font-size: 12px;
+  width: 120px;
+  height: 23px;
+  border-radius: 10px;
+  border: none;
+  margin-top: 5px;
+}
+
+.buyit6-price {
+  color: var(--secondary-color-red);
+}
+
+#buyit2,
+#buyit4 {
+  align-self: center;
+  color: rgb(86, 89, 89);
+  font-size: 24px;
+}
+
+.buy-it-with-below {
+  position: absolute;
+  top: 1030px;
+  font-size: 14px;
+}
+
+.line1-buyit span {
+  color: var(--secondary-color-red);
+}
+
+.line2-buyit .part1 {
+  color: var(--secondary-color-blue);
+}
+.line2-buyit .part2 {
+  font-size: 12px;
+}
+
+.line2-buyit .part3-price {
+  color: var(--secondary-color-red);
+}
+
+.line3-buyit .line3-part1 {
+  color: var(--secondary-color-blue);
+}
+.line3-buyit .line3-price {
+  color: var(--secondary-color-red);
+}
+
+.chekbox {
+  margin: 0 5px;
+}
